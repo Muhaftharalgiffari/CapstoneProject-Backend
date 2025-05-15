@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #E63946;
+    --color-secondary: #A8DADC;
+    --color-light: #F1FAEE;
+    --color-dark: #1D3557;
+  }
+
+  body {
+    @apply bg-light text-dark font-sans;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-white px-4 py-2 rounded-lg hover:bg-opacity-90 transition-colors;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-md p-4;
+  }
+
+  .nav-link {
+    @apply text-dark hover:text-primary transition-colors;
+  }
+}
+
+/* Transisi fade untuk main-content */
+#main-content {
+  transition: opacity 0.3s;
+} 
