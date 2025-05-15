@@ -97,11 +97,11 @@ export const Home = () => {
                             <p class="text-sm md:text-base text-[#457B9D]">Akurasi Deteksi</p>
                         </div>
                         <div class="text-center p-4">
-                            <div class="text-3xl md:text-4xl font-bold text-[#E63946] mb-2">1000+</div>
+                            <div class="text-3xl md:text-4xl font-bold text-[#E63946] mb-2">100+</div>
                             <p class="text-sm md:text-base text-[#457B9D]">Deteksi Berhasil</p>
                         </div>
                         <div class="text-center p-4">
-                            <div class="text-3xl md:text-4xl font-bold text-[#E63946] mb-2">10+</div>
+                            <div class="text-3xl md:text-4xl font-bold text-[#E63946] mb-2">5+</div>
                             <p class="text-sm md:text-base text-[#457B9D]">Jenis Cabai</p>
                         </div>
                     </div>
