@@ -62,7 +62,7 @@ export const About = () => {
                                 <a href="https://www.linkedin.com/search/results/all/?keywords=sheila&origin=GLOBAL_SEARCH_HEADER&sid=.H6" target="_blank" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
                                     <i class="fab fa-linkedin text-xl"></i>
                                 </a>
-                                <a href="#" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
+                                <a href="https://github.com/sheiladys" target="_blank" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
                                     <i class="fab fa-github text-xl"></i>
                                 </a>
                             </div>
