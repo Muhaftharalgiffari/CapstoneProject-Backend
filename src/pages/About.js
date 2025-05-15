@@ -59,7 +59,7 @@ export const About = () => {
                             <h3 class="font-bold text-[#1D3557] text-xl mb-1">Sheila</h3>
                             <p class="text-[#E63946] text-xs font-medium mb-2 italic">"Data is the New Oil"</p>
                             <div class="flex gap-3 mb-4">
-                                <a href="#" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
+                                <a href="https://www.linkedin.com/search/results/all/?keywords=sheila&origin=GLOBAL_SEARCH_HEADER&sid=.H6" target="_blank" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
                                     <i class="fab fa-linkedin text-xl"></i>
                                 </a>
                                 <a href="#" class="text-[#457B9D] hover:text-[#E63946] transition-colors">
