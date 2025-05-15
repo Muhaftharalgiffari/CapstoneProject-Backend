@@ -19,7 +19,7 @@ export const About = () => {
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <div class="bg-[#F1FAEE] rounded-xl shadow-lg p-6 flex flex-col items-center transform hover:scale-105 transition-transform duration-300">
                             <div class="relative">
-                                <img src="/src/assets/images/Pepri Andika.png" alt="Pepri Andika" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
+                                <img src="/assets/images/Pepri Andika.png" alt="Pepri Andika" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
                                 <div class="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-[#1D3557]/90 backdrop-blur-sm text-white px-4 py-1.5 rounded-lg text-xs font-medium shadow-lg">
                                     <i class="fas fa-brain mr-1.5"></i>ML Team
                                 </div>
@@ -51,7 +51,7 @@ export const About = () => {
                         </div>
                         <div class="bg-[#F1FAEE] rounded-xl shadow-lg p-6 flex flex-col items-center transform hover:scale-105 transition-transform duration-300">
                             <div class="relative">
-                                <img src="/src/assets/images/Sheila.jpg" alt="Sheila" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
+                                <img src="/assets/images/Sheila.jpg" alt="Sheila" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
                                 <div class="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-[#1D3557]/90 backdrop-blur-sm text-white px-4 py-1.5 rounded-lg text-xs font-medium shadow-lg">
                                     <i class="fas fa-brain mr-1.5"></i>ML Team
                                 </div>
@@ -80,7 +80,7 @@ export const About = () => {
                         </div>
                         <div class="bg-[#F1FAEE] rounded-xl shadow-lg p-6 flex flex-col items-center transform hover:scale-105 transition-transform duration-300">
                             <div class="relative">
-                                <img src="/src/assets/images/Reinhart.png" alt="Reinhart Jens Robert" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
+                                <img src="/assets/images/Reinhart.png" alt="Reinhart Jens Robert" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
                                 <div class="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-[#1D3557]/90 backdrop-blur-sm text-white px-4 py-1.5 rounded-lg text-xs font-medium shadow-lg">
                                     <i class="fas fa-brain mr-1.5"></i>ML Team
                                 </div>
@@ -122,7 +122,7 @@ export const About = () => {
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <div class="bg-[#F1FAEE] rounded-xl shadow-lg p-6 flex flex-col items-center transform hover:scale-105 transition-transform duration-300">
                             <div class="relative">
-                                <img src="/src/assets/images/Muh. Afthar algiffari.png" alt="Muh. Afthar Algiffari" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
+                                <img src="/assets/images/Muh. Afthar algiffari.png" alt="Muh. Afthar Algiffari" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
                                 <div class="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-[#1D3557]/90 backdrop-blur-sm text-white px-4 py-1.5 rounded-lg text-xs font-medium shadow-lg">
                                     <i class="fas fa-laptop-code mr-1.5"></i>Web Team
                                 </div>
@@ -186,7 +186,7 @@ export const About = () => {
                         </div>
                         <div class="bg-[#F1FAEE] rounded-xl shadow-lg p-6 flex flex-col items-center transform hover:scale-105 transition-transform duration-300">
                             <div class="relative">
-                                <img src="/src/assets/images/Abid Abdillah.jpg" alt="Abid Abdillah" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
+                                <img src="/assets/images/Abid Abdillah.jpg" alt="Abid Abdillah" class="w-32 h-32 rounded-full mb-4 shadow-lg object-cover">
                                 <div class="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-[#1D3557]/90 backdrop-blur-sm text-white px-4 py-1.5 rounded-lg text-xs font-medium shadow-lg">
                                     <i class="fas fa-laptop-code mr-1.5"></i>Web Team
                                 </div>
