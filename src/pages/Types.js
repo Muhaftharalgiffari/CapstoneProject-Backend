@@ -17,8 +17,8 @@ export const Types = () => {
                     <div class="bg-white rounded-lg shadow-lg overflow-hidden h-fit">
                         <div class="relative h-64 flex items-center justify-center bg-[#F1FAEE]">
                             <div class="gallery flex gap-2 overflow-x-auto px-2 py-2">
-                                <img src="/src/assets/images/Cabe Rawit.jpg" alt="Cabe Rawit" class="h-64 w-90 object-cover rounded-lg shadow" />
-                                <img src="/src/assets/images/Cabe Rawit 2.png" alt="Cabe Rawit 2" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Rawit.jpg" alt="Cabe Rawit" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Rawit 2.png" alt="Cabe Rawit 2" class="h-64 w-90 object-cover rounded-lg shadow" />
                             </div>
                         </div>
                         <div class="p-6">
@@ -75,8 +75,8 @@ export const Types = () => {
                     <div class="bg-white rounded-lg shadow-lg overflow-hidden h-fit">
                         <div class="relative h-64 flex items-center justify-center bg-[#F1FAEE]">
                             <div class="gallery flex gap-2 overflow-x-auto px-2 py-2">
-                                <img src="/src/assets/images/Cabe Kriting Jeneponto.jpg" alt="Cabe Kriting Jeneponto" class="h-64 w-90 object-cover rounded-lg shadow" />
-                                <img src="/src/assets/images/Cabe Kriting Jeneponto 2.png" alt="Cabe Kriting Jeneponto 2" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Kriting Jeneponto.jpg" alt="Cabe Kriting Jeneponto" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Kriting Jeneponto 2.png" alt="Cabe Kriting Jeneponto 2" class="h-64 w-90 object-cover rounded-lg shadow" />
                             </div>
                         </div>
                         <div class="p-6">
@@ -131,8 +131,8 @@ export const Types = () => {
                     <div class="bg-white rounded-lg shadow-lg overflow-hidden h-fit">
                         <div class="relative h-64 flex items-center justify-center bg-[#F1FAEE]">
                             <div class="gallery flex gap-2 overflow-x-auto px-2 py-2">
-                                <img src="/src/assets/images/Cabe Hiyung.jpg" alt="Cabe Hiyung" class="h-64 w-90 object-cover rounded-lg shadow" />
-                                <img src="/src/assets/images/Cabe Hiyung 2.jpeg" alt="Cabe Hiyung 2" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Hiyung.jpg" alt="Cabe Hiyung" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Hiyung 2.jpeg" alt="Cabe Hiyung 2" class="h-64 w-90 object-cover rounded-lg shadow" />
                             </div>
                         </div>
                         <div class="p-6">
@@ -187,8 +187,8 @@ export const Types = () => {
                     <div class="bg-white rounded-lg shadow-lg overflow-hidden h-fit">
                         <div class="relative h-64 flex items-center justify-center bg-[#F1FAEE]">
                             <div class="gallery flex gap-2 overflow-x-auto px-2 py-2">
-                                <img src="/src/assets/images/Cabe Katokkon.jpg" alt="Cabe Katokkon" class="h-64 w-90 object-cover rounded-lg shadow" />
-                                <img src="/src/assets/images/Cabe Katokkon 2.png" alt="Cabe Katokkon 2" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Katokkon.jpg" alt="Cabe Katokkon" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Katokkon 2.png" alt="Cabe Katokkon 2" class="h-64 w-90 object-cover rounded-lg shadow" />
                             </div>
                         </div>
                         <div class="p-6">
@@ -242,8 +242,8 @@ export const Types = () => {
                     <div class="bg-white rounded-lg shadow-lg overflow-hidden h-fit">
                         <div class="relative h-64 flex items-center justify-center bg-[#F1FAEE]">
                             <div class="gallery flex gap-2 overflow-x-auto px-2 py-2">
-                                <img src="/src/assets/images/Cabe Rica Manado.jpeg" alt="Cabe Rica Manado" class="h-64 w-90 object-cover rounded-lg shadow" />
-                                <img src="/src/assets/images/Cabe Rica Manado 2.jpeg" alt="Cabe Rica Manado 2" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Rica Manado.jpeg" alt="Cabe Rica Manado" class="h-64 w-90 object-cover rounded-lg shadow" />
+                                <img src="/assets/images/Cabe Rica Manado 2.jpeg" alt="Cabe Rica Manado 2" class="h-64 w-90 object-cover rounded-lg shadow" />
                             </div>
                         </div>
                         <div class="p-6">
