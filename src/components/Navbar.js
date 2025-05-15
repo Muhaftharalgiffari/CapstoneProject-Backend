@@ -1,7 +1,6 @@
 import { navigateTo } from '../router.js';
 
 export const initNavbar = () => {
-    console.log("Navbar di-render");
     const navbar = document.getElementById('navbar');
     if (!navbar) return;
 
