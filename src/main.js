@@ -4,6 +4,7 @@ import { renderPage } from './router.js';
 import { uploadImage, saveHistory, getHistory } from './api/predict.js';
 import { DISEASE_INFO } from './api/diseaseInfo.js';
 import jsPDF from 'jspdf';
+import { handleLogin, handleRegister, handleLogout } from './pages/auth.js';
 
 // Inisialisasi aplikasi
 document.addEventListener('DOMContentLoaded', () => {
@@ -425,5 +426,39 @@ const displayResult = (result) => {
                 };
             }
         }, 100);
+    }
+};
+
+// Inisialisasi halaman login
+window.initLoginPage = () => {
+    const loginForm = document.getElementById('loginForm');
+    if (loginForm) {
+        loginForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            await handleLogin(email, password);
+        });
+    }
+};
+
+// Inisialisasi halaman register
+window.initRegisterPage = () => {
+    const registerForm = document.getElementById('registerForm');
+    if (registerForm) {
+        registerForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            const confirmPassword = document.getElementById('confirm-password').value;
+
+            if (password !== confirmPassword) {
+                alert('Password dan konfirmasi password tidak cocok!');
+                return;
+            }
+
+            await handleRegister(name, email, password);
+        });
     }
 }; 
